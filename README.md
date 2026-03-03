@@ -2,6 +2,10 @@
 
 This repository is intended to be the **public distribution feed** for the Kumiho Browser desktop app.
 
+## What Kumiho Browser is
+
+Kumiho Browser is a human-auditable UI for the Kumiho graph. It lets you browse creative assets *and* recorded AI agent memories (conversations, decisions, facts, tool executions) as versioned Items/Revisions, and visualize dependency/lineage graphs to understand provenance and reasoning dependencies.
+
 The app can be built to check this repo for updates (without any embedded GitHub tokens) by setting build-time Dart defines:
 
 - `UPDATE_GITHUB_OWNER`
